@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E86DE&center=true&vCenter=true&width=500&lines=IT+Student+%7C+Web+Developer+%7C+Tech+Explorer;Building+real-world+solutions+through+code;Always+learning+and+innovating!+💡" alt="Typing Animation" />
 </p>
 
-![Image](https://github.com/user-attachments/assets/4b39e86f-4a7e-4b35-8f02-2f3f894fd49b)
 
 
 ![@Latif101-bot](https://github.com/user-attachments/assets/dd30a6ad-88e3-470b-b64f-838fedf56cf5)
