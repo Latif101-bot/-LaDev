@@ -1,9 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Hey there, I'm <span style="color:#2e86de;">LaDev</span> ☕👨🏽‍💻</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E86DE&center=true&vCenter=true&width=500&lines=IT+Student+%7C+Web+Developer+%7C+Tech+Explorer;Building+real-world+solutions+through+code;Always+learning+and+innovating!+💡" alt="Typing Animation" />
-</p>
+
 
 
 
