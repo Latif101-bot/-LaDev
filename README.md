@@ -2,6 +2,12 @@
 <h1 align="center">Hey there, I'm <span style="color:#2e86de;">LaDev</span> ☕👨🏽‍💻</h1>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Latif101-bot/-LaDev/main/LaDev-Image.png" alt="LaDev Banner" width="800"/>
+</p>
+
+---
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86DE&center=true&vCenter=true&width=520&lines=IT+Student+%7C+Web+Developer+%7C+Tech+Explorer;Building+Real-world+Solutions+through+Code;Always+Learning+and+Innovating!+💡" alt="Typing Animation" />
 </p>
 
@@ -19,12 +25,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Latif101-bot/-LaDev/main/LaDev%20Image.png" alt="LaDev Banner" width="800"/>
-</p>
-
-
----
 
 ## 🚀 About Me  
 
