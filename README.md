@@ -1,11 +1,25 @@
 <!-- Profile Header -->
 <h1 align="center">Hey there, I'm <span style="color:#2e86de;">LaDev</span> ☕👨🏽‍💻</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86DE&center=true&vCenter=true&width=520&lines=IT+Student+%7C+Web+Developer+%7C+Tech+Explorer;Building+Real-world+Solutions+through+Code;Always+Learning+and+Innovating!+💡" alt="Typing Animation" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Latif101-bot">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/IT%20Student-%232E86DE.svg?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Web%20Developer-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  </a>
+</p>
+
+---
 
 
-
-
-![@Latif101-bot](https://github.com/user-attachments/assets/dd30a6ad-88e3-470b-b64f-838fedf56cf5)
 
 ---
 
